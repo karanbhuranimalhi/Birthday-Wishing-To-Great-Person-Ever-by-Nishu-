@@ -28,7 +28,7 @@ Simple and Clean Design: Focuses on delivering a joyful birthday experience.
 
 
 
-git clone https://github.com/your-username/birthday-website.git
+git clone https://github.com/karanbhuranimalhi/birthday-website.git
 
 2. Open the Project Locally:
 
@@ -63,3 +63,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 📧 Contact
 
 For any questions or feedback, reach out to Karna Bhurani.
+kingkaranbhurani@gmail.com 
+kbcreativestudio2024@gmail.com
